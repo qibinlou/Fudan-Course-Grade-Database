@@ -6,6 +6,7 @@ Fudan-Course-Grade-Database
 ## How to use
 * recommend using [Navicat for SQLite](http://www.navicat.com.cn/download) to open the **GPA.db** file.(other sqlite tools are also compatible)
 * make use of the structural source formatted as json/xml/excel/sql files
+* the latest semester is *2011~2012 Spring Semester* ,for your convenience
 
 
 ## Contribution
